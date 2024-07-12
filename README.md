@@ -1,4 +1,5 @@
 # desafio-authfirebase-cras-1296
+Hosting URL: https://desafio-auth-cras-1296.web.app
 
 ## Project setup
 ```
